@@ -1,2 +1,1 @@
-# jcsgithub-glitch
-A sample repository for glitch projects.
+# Backend Challenges boilerplate - package.json
